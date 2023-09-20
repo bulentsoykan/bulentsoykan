@@ -5,8 +5,8 @@ I'm Bulent Soykan, a Senior Operations Research (OR) Analyst with 25 years of ex
 
 ## ✨ About me ✨ 
 
-- 🔭 I’m currently working on to solve large-scale scheduling problems with optimization (MIP), simulation and machine learning (reinforcement learning).
-- 🌱 I’m currently learning reinforcement learning to solve sequential decision making problems.
+- 🔭 I’m a postdoctoral researcher at School of Modeling, Simulation, and Training, University of Central Florida and I am currently working on to solve large-scale scheduling problems with optimization (MIP), simulation and machine learning (reinforcement learning).
+- 🌱 I’m currently learning graph neural networks, deep reinforcement learning to solve sequential decision making problems, and design/development of digital twins.
 - 👯 I’m looking to collaborate on optimization (MIP), simulation and machine learning (reinforcement learning) projects.
 - 💬 Ask me about optimization (MIP), simulation and experimantal design.
 - 📫 How to reach me: soykanb@gmail.com
