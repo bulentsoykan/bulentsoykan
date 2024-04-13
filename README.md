@@ -13,3 +13,4 @@ I'm Bulent Soykan, a Senior Operations Research (OR) Analyst with 27 years of ex
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I know it is not true but I truly feel like I'm still twenty years old.
 
+[![ORCID: Bulent Soykan](https://img.shields.io/badge/ORCID-0000-0002-7958-2650-brightgreen)](https://orcid.org/0000-0002-7958-2650)
