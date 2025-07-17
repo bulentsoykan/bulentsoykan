@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bulent Soykan, a research scientist with 27 years of experience, possessing an extensive skill-set in statistical analysis, OR, applied mathematics, simulation and modeling, machine learning, programming, strategic planning, and the streamlining of business policies and processes, with PMP certification and a track record of successful project completion and goal achievement. 
+I'm Bulent Soykan, a research scientist possessing an extensive skill-set in statistical analysis, OR, applied mathematics, simulation and modeling, machine learning, programming, strategic planning, and the streamlining of business policies and processes, with PMP certification and a track record of successful project completion and goal achievement. 
 
 
 ## ✨ About me ✨ 
